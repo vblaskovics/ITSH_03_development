@@ -10,4 +10,5 @@ To install project, run:
 
 ## Branches
 - master
-- develop (not yet)
+- develop
+  - main development branch
