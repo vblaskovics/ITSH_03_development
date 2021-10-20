@@ -10,4 +10,5 @@ To install project, run:
 
 ## Branches
 - master
+  - default branch
 - develop (not yet)
