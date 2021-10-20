@@ -13,3 +13,4 @@ To install project, run:
   - default branch
 - develop
   - main development branch
+  - more stuff
