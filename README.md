@@ -12,3 +12,4 @@ To install project, run:
 - master
 - develop
   - main development branch
+  - more stuff
