@@ -10,5 +10,6 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
+  console.log('Development branch message')
   console.log(`Listening: http://localhost:${port}`)
 })
